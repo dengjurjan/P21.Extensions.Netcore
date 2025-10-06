@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/P21.Extensions.Netcore/DesignTimeBuild
+/.vs/P21.Extensions.Netcore/FileContentIndex
+/.vs
+/P21.Extensions.Netcore/.vs
+/P21.Extensions.Netcore/bin
+/P21.Extensions.Netcore/obj
+/P21.Extensions.Netcore/P21.Extensions.Netcore.csproj.user
